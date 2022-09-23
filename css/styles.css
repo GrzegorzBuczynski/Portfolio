@@ -155,3 +155,39 @@ h4 {
 .contact-wrapper {
 	background-color: #800000;
 }
+/* Footer */
+ul {
+	display: flex;
+	list-style: none;
+	justify-content: center;
+	padding-top: 20px;
+}
+ul li {
+	flex-direction: row;
+}
+ul li a {
+	text-decoration: none;
+	color: #b5b2b2;
+	padding: 20px;
+}
+ul li a:hover {
+	color: #f9f2f2;
+}
+.icon {
+	text-decoration: none;
+}
+.red{
+	color: red;
+}
+.azure{
+	color: rgb(87, 182, 251);
+}
+.navy-blue{
+	color: rgba(18, 187, 244, 0.988);
+}
+.grey{
+	color: grey;
+}
+.facebook{
+	color: rgb(60, 107, 249);
+}
