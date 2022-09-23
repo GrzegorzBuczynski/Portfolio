@@ -178,12 +178,11 @@ ul li a:hover {
 }
 .icon-svg {
 	text-decoration: none;
-	width: 30px;
-	height: 30px;
-	padding-top: -10px;
+	width: 32px;
+	height: 32px;
 }
 .v-align-middle {
-    vertical-align: middle !important;
+	vertical-align: middle !important;
 }
 .red {
 	color: red;
