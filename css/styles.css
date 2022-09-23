@@ -176,18 +176,27 @@ ul li a:hover {
 .icon {
 	text-decoration: none;
 }
-.red{
+.icon-svg {
+	text-decoration: none;
+	width: 30px;
+	height: 30px;
+	padding-top: -10px;
+}
+.v-align-middle {
+    vertical-align: middle !important;
+}
+.red {
 	color: red;
 }
-.azure{
+.azure {
 	color: rgb(87, 182, 251);
 }
-.navy-blue{
+.navy-blue {
 	color: rgba(18, 187, 244, 0.988);
 }
-.grey{
+.grey {
 	color: grey;
 }
-.facebook{
+.facebook {
 	color: rgb(60, 107, 249);
 }
